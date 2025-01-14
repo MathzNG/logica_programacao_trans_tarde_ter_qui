@@ -1,0 +1,15 @@
+C:\Users\matheus.nguedes\source\repos\logica_programacao_tarde_ter_qui\ex04\bin\Debug\net8.0\ex04.exe
+C:\Users\matheus.nguedes\source\repos\logica_programacao_tarde_ter_qui\ex04\bin\Debug\net8.0\ex04.deps.json
+C:\Users\matheus.nguedes\source\repos\logica_programacao_tarde_ter_qui\ex04\bin\Debug\net8.0\ex04.runtimeconfig.json
+C:\Users\matheus.nguedes\source\repos\logica_programacao_tarde_ter_qui\ex04\bin\Debug\net8.0\ex04.dll
+C:\Users\matheus.nguedes\source\repos\logica_programacao_tarde_ter_qui\ex04\bin\Debug\net8.0\ex04.pdb
+C:\Users\matheus.nguedes\source\repos\logica_programacao_tarde_ter_qui\ex04\obj\Debug\net8.0\ex04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matheus.nguedes\source\repos\logica_programacao_tarde_ter_qui\ex04\obj\Debug\net8.0\ex04.AssemblyInfoInputs.cache
+C:\Users\matheus.nguedes\source\repos\logica_programacao_tarde_ter_qui\ex04\obj\Debug\net8.0\ex04.AssemblyInfo.cs
+C:\Users\matheus.nguedes\source\repos\logica_programacao_tarde_ter_qui\ex04\obj\Debug\net8.0\ex04.csproj.CoreCompileInputs.cache
+C:\Users\matheus.nguedes\source\repos\logica_programacao_tarde_ter_qui\ex04\obj\Debug\net8.0\ex04.sourcelink.json
+C:\Users\matheus.nguedes\source\repos\logica_programacao_tarde_ter_qui\ex04\obj\Debug\net8.0\ex04.dll
+C:\Users\matheus.nguedes\source\repos\logica_programacao_tarde_ter_qui\ex04\obj\Debug\net8.0\refint\ex04.dll
+C:\Users\matheus.nguedes\source\repos\logica_programacao_tarde_ter_qui\ex04\obj\Debug\net8.0\ex04.pdb
+C:\Users\matheus.nguedes\source\repos\logica_programacao_tarde_ter_qui\ex04\obj\Debug\net8.0\ex04.genruntimeconfig.cache
+C:\Users\matheus.nguedes\source\repos\logica_programacao_tarde_ter_qui\ex04\obj\Debug\net8.0\ref\ex04.dll
