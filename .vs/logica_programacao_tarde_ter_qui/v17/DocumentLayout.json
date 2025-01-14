@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\matheus.nguedes\\source\\repos\\logica_programacao_tarde_ter_qui\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7F440B74-E266-46D8-BBAA-3296BE3DFC5B}|ex06\\ex06.csproj|c:\\users\\matheus.nguedes\\source\\repos\\logica_programacao_tarde_ter_qui\\ex06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F440B74-E266-46D8-BBAA-3296BE3DFC5B}|ex06\\ex06.csproj|solutionrelative:ex06\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B1FC437A-7184-4B18-9155-C0CD725039E7}|ex05\\ex05.csproj|c:\\users\\matheus.nguedes\\source\\repos\\logica_programacao_tarde_ter_qui\\ex05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B1FC437A-7184-4B18-9155-C0CD725039E7}|ex05\\ex05.csproj|solutionrelative:ex05\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -36,18 +40,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matheus.nguedes\\source\\repos\\logica_programacao_tarde_ter_qui\\ex06\\Program.cs",
+              "RelativeDocumentMoniker": "ex06\\Program.cs",
+              "ToolTip": "C:\\Users\\matheus.nguedes\\source\\repos\\logica_programacao_tarde_ter_qui\\ex06\\Program.cs",
+              "RelativeToolTip": "ex06\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T19:58:17.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\matheus.nguedes\\source\\repos\\logica_programacao_tarde_ter_qui\\ex05\\Program.cs",
               "RelativeDocumentMoniker": "ex05\\Program.cs",
               "ToolTip": "C:\\Users\\matheus.nguedes\\source\\repos\\logica_programacao_tarde_ter_qui\\ex05\\Program.cs",
               "RelativeToolTip": "ex05\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-14T19:49:11.12Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\matheus.nguedes\\source\\repos\\logica_programacao_tarde_ter_qui\\ex04\\Program.cs",
               "RelativeDocumentMoniker": "ex04\\Program.cs",
@@ -55,12 +72,11 @@
               "RelativeToolTip": "ex04\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T19:15:12.554Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-14T19:15:12.554Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\matheus.nguedes\\source\\repos\\logica_programacao_tarde_ter_qui\\ex03\\Program.cs",
               "RelativeDocumentMoniker": "ex03\\Program.cs",
@@ -72,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\matheus.nguedes\\source\\repos\\logica_programacao_tarde_ter_qui\\ex02\\Program.cs",
               "RelativeDocumentMoniker": "ex02\\Program.cs",
@@ -84,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\matheus.nguedes\\source\\repos\\logica_programacao_tarde_ter_qui\\ex01\\Program.cs",
               "RelativeDocumentMoniker": "ex01\\Program.cs",
